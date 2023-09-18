@@ -34,7 +34,9 @@ Each language has its dedicated directory with all the necessary source files an
 ### Steps
 1. Clone the repository:
 
-```git clone https://github.com/rajanchandale/noughts_crosses_autoplayer.git```
+```
+git clone https://github.com/rajanchandale/noughts_crosses_autoplayer.git
+```
 
 2. Navigate to the directory of the language you wish to run and follow language-specific instructions
 
