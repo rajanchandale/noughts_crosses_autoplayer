@@ -42,14 +42,14 @@ Each language has its dedicated directory with all the necessary source files an
 ### Python
 
 ```
-cd PYTHON_DIRECTORY
+cd python_autoplayer
 python3 MAIN.PY
 ```
 
 ### Java
 
 ```
-cd JAVA_DIRECTORY
+cd java_autoplayer
 javac NoughtsCrossesGame.java
 java NoughtsCrossesGame
 ```
@@ -57,7 +57,7 @@ java NoughtsCrossesGame
 ### C
 
 ```
-cd C_DIRECTORY
+cd c_autoplayer
 gcc main.c -o game
 ./game
 ```
