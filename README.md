@@ -28,10 +28,10 @@ Each language has its dedicated directory with all the necessary source files an
 
 ## Installation
 
-**Prerequisites**
+### Prerequisites
 - Ensure you have the respective compilers or interpreters for Python, Java, and C.
 
-**Steps**
+### Steps
 1. Clone the repository:
 ```ADD REPO LINK HERE```
 
@@ -39,14 +39,14 @@ Each language has its dedicated directory with all the necessary source files an
 
 ## Usage
 
-**Python**
+### Python
 
 ```
 cd PYTHON_DIRECTORY
 python3 MAIN.PY
 ```
 
-**Java**
+### Java
 
 ```
 cd JAVA_DIRECTORY
@@ -54,7 +54,7 @@ javac NoughtsCrossesGame.java
 java NoughtsCrossesGame
 ```
 
-**C**
+### C
 
 ```
 cd C_DIRECTORY
