@@ -46,7 +46,7 @@ git clone https://github.com/rajanchandale/noughts_crosses_autoplayer.git
 
 ```
 cd python_autoplayer
-python3 MAIN.PY
+python3 noughts_crosses_auto_player.py
 ```
 
 ### Java
@@ -61,6 +61,6 @@ java NoughtsCrossesGame
 
 ```
 cd c_autoplayer
-gcc main.c -o game
+gcc C_NoughtsCrossesAutoPlayer.c -o game
 ./game
 ```
